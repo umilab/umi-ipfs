@@ -3,4 +3,5 @@
 
 # command line:
 sudo chmod +x ./go-install.sh
+
 ./go-install.sh
